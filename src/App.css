@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  width: 100%
+}
+
+.App-logo {
+  height: 150px;
+  margin-top: 150px;
+}
+
+.App-header {
+  background-image: url('./asset/Git.jpeg');
+  height: 600px;
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 40% 60%;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: white;
+}
+
+.App-quees {
+
+  min-height: 700px;
+  background-color: rgb(242, 191, 96);
+  color: white;
+  padding: 30px;
+}
+
+.App-descargar{
+
+  min-height: 500px;
+  background-color: rgb(45, 171, 209);
+  padding: 30px;
+  color: white;
+  padding-top: 130px
+}
+
+.App-primera {
+
+  padding: 30px;
+  min-height: 700px;
+  background-color: rgb(122, 206, 54);
+  color: white;
+
+}
+
+.App-repositorio{
+
+  padding: 30px;
+  min-height: 450px;
+  background-color: rgb(223, 76, 76);
+  color: white;
+}
+
+.App-commit{
+
+  padding: 30px;
+  min-height: 450px;
+  background-color: #9515da;
+  color: white;
+}
+
+.App-workin {
+
+  padding: 30px;
+  min-height: 450px;
+  background-color: #065860;
+  color: white;
+}
